@@ -1,7 +1,7 @@
 # TALLER_POWERBI
 Analisis de Datos PowerBI
 
-## Tablero de analisis de ventas segun sectores de Colombia
-![image](https://github.com/user-attachments/assets/2784f50a-7265-4234-ba60-30dfc4fcfce5)
+## Tablero de analisis de sectores contratantes segun empresa
+![image](https://github.com/user-attachments/assets/f3384269-d117-417d-b9c2-8f36ce862a57)
 
 
